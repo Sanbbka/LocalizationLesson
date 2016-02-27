@@ -1,0 +1,12 @@
+/*
+  Localizable.strings
+  Localize
+ 
+  Created by Alexander Drovnyashin on 27.02.16.
+  Copyright © 2016 Alexander Drovnyashin. All rights reserved.
+*/
+
+"book.bookInformation" = "In The Tempest, long considered one of Shakespeare's most lyrical plays, Prospero—a magician on an enchanted island—punishes his enemies, brings happiness to his daughter, and comes to terms with human use of supernatural power. The Tempest embodies both seemingly timeless romance and the historically specific moment in which Europe begins to explore and conquer the New World.";
+"book.bookImage" = "imgEng.jpg";
+"book.bookName.Tempest" = "The Tempest";
+"book.bookAuthor.Tempest" = "William Shakespeare";

@@ -1,0 +1,12 @@
+/*
+ Localizable.strings
+ //  LocalizationProject
+ //
+ //  Created by Ильда  Залялов on 25.12.15.
+ //  Copyright © 2015 Ильда  Залялов. All rights reserved.
+ */
+
+"book.bookInformation" = "Роман австралийского писателя Грегори Дэвида Робертса. Впервые издан в Австралии, в 2003 году. В 2010 году вышел в России. Основой для книги послужили события собственной жизни автора. Основное действие романа разворачивается в Индии, в Бомбее (Мумбаи) в 1980-х годах.";
+"book.bookImage" = "bookImage.ru";
+"book.bookName.Shantaram" = "Шантарам";
+"book.bookAuthor.Shantaram" = "Грегори Дэвид Робертс";
